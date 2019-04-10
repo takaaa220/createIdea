@@ -10,6 +10,9 @@
 *.log
 .idea
 .vscode
+.firebase
 .eslintcache
 package-lock.json
 yarn.lock
+dist
+.firebaserc

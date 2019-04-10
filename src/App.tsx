@@ -7,7 +7,7 @@ export interface AppState {}
 
 class App extends React.Component<AppProps, AppState> {
   render() {
-    return <div />;
+    return <div>hello</div>;
   }
 }
 
